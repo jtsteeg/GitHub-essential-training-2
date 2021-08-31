@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTraining", "EssentialTraining\EssentialTraining.csproj", "{809D6ABF-BF0B-4445-88EE-BC721AA524E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTrainingTest2", "EssentialTrainingTest2\EssentialTrainingTest2.csproj", "{0664C39B-23C2-4476-826B-4A562A8D466E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{809D6ABF-BF0B-4445-88EE-BC721AA524E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809D6ABF-BF0B-4445-88EE-BC721AA524E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809D6ABF-BF0B-4445-88EE-BC721AA524E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809D6ABF-BF0B-4445-88EE-BC721AA524E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0664C39B-23C2-4476-826B-4A562A8D466E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0664C39B-23C2-4476-826B-4A562A8D466E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0664C39B-23C2-4476-826B-4A562A8D466E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0664C39B-23C2-4476-826B-4A562A8D466E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03AC77A1-7BEA-4BB4-93A2-5D01EDBC9FB8}
+	EndGlobalSection
+EndGlobal
