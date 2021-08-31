@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTraining", "Essent
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTrainingTest2", "EssentialTrainingTest2\EssentialTrainingTest2.csproj", "{0664C39B-23C2-4476-826B-4A562A8D466E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTrainingApp", "EssentialTrainingApp\EssentialTrainingApp.csproj", "{9E7EBB30-23CB-4A97-9D97-EC9E55923F2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0664C39B-23C2-4476-826B-4A562A8D466E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0664C39B-23C2-4476-826B-4A562A8D466E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0664C39B-23C2-4476-826B-4A562A8D466E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E7EBB30-23CB-4A97-9D97-EC9E55923F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E7EBB30-23CB-4A97-9D97-EC9E55923F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E7EBB30-23CB-4A97-9D97-EC9E55923F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E7EBB30-23CB-4A97-9D97-EC9E55923F2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

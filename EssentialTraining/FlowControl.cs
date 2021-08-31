@@ -8,6 +8,45 @@ namespace EssentialTraining
 {
     public class FlowControl
     {
+        public string IsYourNameNotBruce(string name)
+        {
+            if(name.ToLower() != "bruce")
+            {
+                return "can we call you bruce for the sake of simplicity?";
+            }
+            else
+            {
+                return "G'day Bruce";
+            }
+        }
+        public string GradeLetter(int score)
+        {
+            if(score > 90)
+            {
+                return "A";
+            }else if (score > 79 && score <= 90)
+            {
+                return "B";
+            }else if (score >= 70 && score <= 80)
+            {
+                return "C";
+            }
+            else
+            {
+                return "F";
+            }
+        }
+        public string PrimaryOrSecondaryCompound(string color)
+        {
+            if(color.ToLower() == "red" || color.ToLower() == "blue" || color.ToLower() == "yellow" )
+            {
+                return "Primary";
+            }
+            else
+            {
+                return "secondary";
+            }
+        }
         public string SecondaryOrPrimary(string color)
         {
             var result = "";
